@@ -22,3 +22,9 @@ PCの自動起動についてはBIOS側で設定する、マザーボードに�
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
+mizuki
+
+## Memo
+```
+testaaaaaaaa
+```
