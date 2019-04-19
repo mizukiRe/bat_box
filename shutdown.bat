@@ -1,5 +1,5 @@
 @echo off
-rem /siƒVƒƒƒbƒgƒ_ƒEƒ“j/riÄ‹N“®j/liƒƒOƒIƒtj
-rem /t ƒVƒƒƒbƒgƒ_ƒEƒ“‚Ü‚Å‚Ì•b”‚ðŽw’è
+rem /sï¼ˆã‚·ãƒ£ãƒƒãƒˆãƒ€ã‚¦ãƒ³ï¼‰/rï¼ˆå†èµ·å‹•ï¼‰/lï¼ˆãƒ­ã‚°ã‚ªãƒ•ï¼‰
+rem /t ã‚·ãƒ£ãƒƒãƒˆãƒ€ã‚¦ãƒ³ã¾ã§ã®ç§’æ•°ã‚’æŒ‡å®š
 
 shutdown.exe /s /t 60
