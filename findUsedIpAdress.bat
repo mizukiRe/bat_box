@@ -1,5 +1,7 @@
 @echo off
 
+rem IPアドレスの末尾が重複しているかを調査する
+
 rem 255.1.255.のように入力
 set baseIpAdress=xx.xx.xx.
 
